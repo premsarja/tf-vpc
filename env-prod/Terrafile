@@ -1,4 +1,4 @@
-"vpc" {
+vpc{
   source = git::https://github.com/premsarja/tf-module-vppc.git
   version = "main"
 }
