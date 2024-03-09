@@ -1,4 +1,4 @@
-module "vpc" {
-  source = git::https://github.com/premsarja/tf-module-vppc.git
-  version = "main"
+vpc {
+  source = "https://github.com/premsarja/tf-module-vppc.git"
+  version = "dev"
 }
