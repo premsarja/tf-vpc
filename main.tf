@@ -1,3 +1,3 @@
-module "vpc" {
-  source = "./vendor/modules/vpc"
-}
+# module "vpc" {
+#   source = "./vendor/modules/vpc"
+# }
