@@ -1,3 +1,3 @@
 bucket = "prems"
 key = "vps/dev/terraform.tfstate"
-region = "us-east1"
+region = "us-east-1"
