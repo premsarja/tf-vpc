@@ -31,3 +31,7 @@ output "PRIVATE_SUBNET_IDS" {
 output "DEFAULT_VPC_CIDR" {
     value = module.vpc.DEFAULT_VPC_CIDR
 }
+
+output "DEFAULT_VPC_RT" {
+  value = module.vpc.DEFAULT_VPC_RT
+}
