@@ -6,4 +6,6 @@ DEFAULT_VPC_RT            = "rtb-07e1c324cf4c73613"
 PRIVATE_HOSTED_ZONE_ID    = "Z02006211CX91GGH6OQ51" 
 PRIVATE_HOSTED_ZONE_NAME  = "roboshop-internal"
 PUBLIC_HOSTED_ZONE_ID     = "Z08935802K4Y3H3XHIEJY"
-PUBLIC_HOSTED_ZONE_NAME   = "prems-batch55-roboshop.shop"
+PUBLIC_HOSTED_ZONE_NAME   = "prems-batch55-roboshop.shop "
+
+
